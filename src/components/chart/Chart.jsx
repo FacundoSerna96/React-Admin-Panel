@@ -16,11 +16,11 @@ const data = [
 
 
 
-const Chart = () => {
+const Chart = ({aspect, title}) => {
   return (
     <div className="chart">
-      <div className="title">Titulo</div>
-      <ResponsiveContainer width="100%">
+      <div className="title">{title}</div>
+      <ResponsiveContainer width="100%" aspect={aspect}>
         <AreaChart
           width={730}
           height={250}
