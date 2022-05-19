@@ -39,6 +39,7 @@ function App() {
               <Route path=':productId' element={<Single />}/>
               <Route path='new' element={<New inputs={productInputs} title='Add New Product'/>}/>
             </Route>
+            <Route path='*' element={<Home />}/>
           </Route>
         </Routes>
       </BrowserRouter>
