@@ -1,8 +1,7 @@
 # React-Admin-Panel
 Un simple panel principal o 'Dashboard' usando la librearia de Material UI.
 
-El proyecto esta basado en el curso "Material UI 5 (MUI) React Tutorial | MUI Responsive Real Project
-" de [LamaDev](https://www.youtube.com/c/LamaDev)
+El proyecto esta basado en el tutorial "React Admin Panel Tutorial | React Admin Dashboard Template Design" de [LamaDev](https://www.youtube.com/c/LamaDev)
 
 ### **Ver [demo](https://facundoserna96.github.io/React-Admin-Panel/)**
 <hr>
